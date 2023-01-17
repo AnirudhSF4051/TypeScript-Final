@@ -1,0 +1,45 @@
+.main
+{
+    width: 500px;
+    height: 450px;
+    border-radius: 20px;
+    background-image: linear-gradient(blue,aquamarine);
+    margin-top: 150px;
+    margin-left: 370px;
+    margin-bottom: 250px;
+}
+.slide
+{
+    border-radius: 150px;
+   
+    margin-left: 125px;
+    margin-top: 50px;
+}
+.caption
+{
+    margin-left: 220px;
+    
+}
+
+.left
+{
+    border-radius: 7px;
+    margin-left: 105px;
+}
+.left:hover
+{
+    filter: invert(100%);
+    cursor: pointer;
+}
+.right
+{
+    margin-left: 200px;
+    border-radius: 7px;
+      
+}
+.right:hover
+{
+    filter: invert(100%);
+    cursor: pointer;
+}
+
